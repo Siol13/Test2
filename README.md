@@ -13,4 +13,4 @@ Set of tests, to learn.
   - [ ] final subtask cc @mention
 - [ ] a separate task
 
-Coucou Yannick!
+Si tu peux me filer un peu plus de contexte, éventuellement des pistes de choses que je peux commencer à regarder, je suis preneur!
